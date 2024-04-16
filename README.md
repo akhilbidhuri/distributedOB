@@ -51,3 +51,4 @@ Then they start recieving and sending orders using the pub sub over the network.
 * On peer disconnect handling can be added to take care of any resources.
 * Make the system decentralized currently it is distributed but not decentralized, by adding consensus mechanisms between peers which will make the system more efficient.
 * Add error handling and retry mechanisms.
+* Add better storage system for order book either on filesystem or DB for efficient data operations and persistance.
