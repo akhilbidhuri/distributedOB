@@ -1,0 +1,17 @@
+{
+  "name": "p2p-ob",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "p2p exchange orderbook",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akhil Bidhuri",
+  "license": "ISC",
+  "dependencies": {
+    "grenache-nodejs-link": "^1.0.0",
+    "grenache-nodejs-ws": "^0.7.10"
+  }
+}
